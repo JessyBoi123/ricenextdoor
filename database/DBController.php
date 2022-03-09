@@ -7,7 +7,7 @@ class DBController
     protected $host = 'localhost';
     protected $user = 'root';
     protected $password = '';
-    protected $database = "shopee";
+    protected $database = "ricenextdoor"; //Changed the 'shopee' to ricenexdoor as per database name
 
     // connection property
     public $con = null;
